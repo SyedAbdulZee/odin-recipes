@@ -1,0 +1,43 @@
+.title {
+    color: bisque;
+    background-color: blue;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.LSG {
+            background-color: white;
+            border: 2px solid bisque;
+            color: blue;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-size: 20px;
+            margin: 10px 30px;
+            cursor: pointer;
+}
+
+.GFS {
+    background-color: white;
+            border: 2px solid bisque;
+            color: blue;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-size: 20px;
+            margin: 10px 30px;
+            cursor: pointer;
+}
+
+.BBH {
+    background-color: white;
+            border: 2px solid bisque;
+            color: blue;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-size: 20px;
+            margin: 10px 30px;
+            cursor: pointer;
+}
