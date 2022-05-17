@@ -1,6 +1,6 @@
 .title {
     color: bisque;
-    background-color: blue;
+    background-color: transparent;
     font-size: large;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
@@ -15,10 +15,10 @@
             border: 2px solid bisque;
             border-radius: 10px;
             color: blue;
-            padding: 5px 10px;
+            padding: 0.5px 10px;
             text-align: center;
             display: inline-block;
-            font-size: 20px;
+          
             margin: 10px 30px;
             cursor: pointer;
 }
@@ -28,10 +28,10 @@
             border: 2px solid bisque;
             border-radius: 10px;
             color: blue;
-            padding: 5px 10px;
+            padding: 0.5px 10px;
             text-align: center;
             display: inline-block;
-            font-size: 20px;
+         
             margin: 10px 30px;
             cursor: pointer;
 }
@@ -41,10 +41,15 @@
             border: 2px solid bisque;
             border-radius: 10px;
             color: blue;
-            padding: 5px 10px;
+            padding: 0.5px 10px;
             text-align: center;
             display: inline-block;
-            font-size: 20px;
+          
             margin: 10px 30px;
             cursor: pointer;
+}
+
+body {
+   height: 2000px;
+    background-image: linear-gradient(to bottom right, blue , green);
 }
